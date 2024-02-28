@@ -1,6 +1,3 @@
-![Workflow status](https://github.com/cheat/cheat/actions/workflows/build.yml/badge.svg)
-
-
 BeamMP Scraper
 =====
 
